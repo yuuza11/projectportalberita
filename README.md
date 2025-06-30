@@ -19,6 +19,9 @@ Halo Coy! Saya **Insannul Imam R. K**, seorang mahasiswa jurusan Teknik Informat
 Pesan dari saya, Jangan lupa olahraga dan jaga kesehatan 👍
 Haha malah nyasar ke mana mana penjelasannya 🤣
 
+Ini link hasil setelah di deploy
+[Link](https://projectportalberita-production.up.railway.app/)
+
 ---
 
 ## 💻 Teknologi
